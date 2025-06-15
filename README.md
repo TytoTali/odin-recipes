@@ -6,13 +6,13 @@ Create a project demonstrating the basics of HTML fundamentals. This should incl
 
 ## Additional elements practiced:
 
-- Various size of the ('<h>') element used in order to section off each part of the recipe and structure the page.
-- The ('<p>') was used to write the description of each recipe.
-- Various parts of the recipes use the ('<em>') and ('<strong>') elements for asthetics and in order to emphasis important or optional information.
-- ('<ul>') used to list out ingredients.
-- ('<ol>') used to create steps for the recipe.
-- ('<img>') used to insert stock photos of the dishes referenced in the recipes.
-- ('<a>') usedto anchor links to other recipes and the home page.
+- Various size of the header element used in order to section off each part of the recipe and structure the page.
+- The paragraph was used to write the description of each recipe.
+- Various parts of the recipes use the emphasize and strong elements for aesthetics and in order to emphasis important or optional information.
+- Unordered list element used to list out ingredients.
+- Ordered list element used to create steps for the recipe.
+- Image element used to insert stock photos of the dishes referenced in the recipes.
+- Anchor element used to anchor links to other recipes and the home page along relative file paths.
 
 ## Sources for images used:
 
